@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     20:43 Sunday, January 12, 2025
+Project Path:       C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\UnoMZ.prj
+Design Path:        C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\UnoMZ.pcb
+Design Title:       
+Created:            1/6/2025 7:44:07 PM
+Last Saved:         1/12/2025 8:25:26 PM
+Editing Time:       2721 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic and Pcb designs in project "UnoMZ"
+==================================================================
+
+
+End Of Report.

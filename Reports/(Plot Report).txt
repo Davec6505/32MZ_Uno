@@ -1,0 +1,270 @@
+Plot Report
+-----------
+
+Report Written:     06:48 Monday, January 13, 2025
+Project Path:       C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\UnoMZ.prj
+Design Path:        C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\UnoMZ.pcb
+Design Title:       
+Created:            1/6/2025 7:44:07 PM
+Last Saved:         1/12/2025 11:07:24 PM
+Editing Time:       3277 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute mm.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 3.5 absolute in mm.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\UnoMZ.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\Plots\Top Silkscreen.GTO
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (mm)
+    ---------------------
+    D10    Round 0.305
+    D11    Round 0.127
+    D12    Round 0.318
+    D13    Round 0.168
+    D14    Round 0.112
+    D15    Round 0.025
+    D16    Round 0.200
+    D17    Round 0.100
+    D18    Round 0.050
+    D19    Round 0.203
+    D70    Round 0.250
+    D71    Round 0.254
+
+Gerber Output
+=============
+
+C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\Plots\Top Copper.GTL
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (mm)
+    ---------------------------------------------------------------
+    D11    Round 0.127
+    D19    Round 0.203
+    D71    Round 0.254
+    D20    Round 0.000
+    D21    Round 0.381
+    D22    Round 1.422
+    D23    Round 1.000
+    D24    Round 0.813
+    D25    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 90
+    D26    Rounded Rectangle 0.450 X 0.650 X 0.150
+    D27    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 135
+    D28    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 45
+    D29    Rounded Rectangle 1.900 X 4.600 X 0.050
+    D72    Rounded Rectangle 1.900 X 4.600 X 0.050  Rotation 90
+    D73    Rectangle 1.600 X 3.200
+    D74    Rectangle 0.950 X 1.750  Rotation 90
+    D75    Rectangle 1.750 X 3.200
+    D76    Rectangle 1.397 X 1.524
+    D77    Square 1.524
+    D78    Rectangle 1.295 X 1.524
+    D79    Rectangle 0.900 X 1.400
+    D80    Rectangle 0.600 X 1.200  Rotation 90
+    D81    Rectangle 0.850 X 1.200
+    D82    Rectangle 0.450 X 1.400  Rotation 90
+    D83    Rectangle 1.295 X 1.524  Rotation 90
+    D84    Rectangle 0.450 X 1.200  Rotation 90
+    D85    Round 1.600
+    D86    Round 1.700
+    D87    Rectangle 0.850 X 3.430  Rotation 90
+    D88    Rectangle 0.300 X 0.990  Rotation 90
+    D89    Rectangle 0.300 X 1.475  Rotation 90
+    D90    Rectangle 0.300 X 1.475
+    D91    Rectangle 1.100 X 1.400  Rotation 90
+    D92    Rectangle 1.020 X 1.470
+    D93    Rectangle 1.397 X 1.524  Rotation 90
+    D94    Rectangle 1.300 X 1.800  Rotation 90
+    D95    Rectangle 0.650 X 0.700  Rotation 90
+    D96    Round 1.500
+
+Gerber Output
+=============
+
+C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\Plots\Top Resist.GTP
+
+    Layers:
+    --------------
+    Top Resist
+
+    D-Code Shape  (mm)
+    --------------------------------------------------------------
+    D85    Round 1.600
+    D96    Round 1.500
+    D97    Rounded Rectangle 1.900 X 4.600 X 0.050
+    D98    Rounded Rectangle 1.900 X 4.600 X 0.050  Rotation 90
+    D99    Rectangle 1.500 X 3.100
+    D100   Rectangle 0.850 X 1.650  Rotation 90
+    D101   Rectangle 1.650 X 3.100
+    D102   Rectangle 1.297 X 1.424
+    D103   Square 1.424
+    D104   Rectangle 1.195 X 1.424
+    D105   Rectangle 0.800 X 1.300
+    D106   Rectangle 0.500 X 1.100  Rotation 90
+    D107   Rectangle 0.750 X 1.100
+    D108   Rectangle 0.350 X 1.300  Rotation 90
+    D109   Rectangle 1.195 X 1.424  Rotation 90
+    D110   Rectangle 0.350 X 1.100  Rotation 90
+    D111   Rectangle 0.750 X 3.330  Rotation 90
+    D112   Rectangle 0.200 X 0.890  Rotation 90
+    D113   Rectangle 0.200 X 1.375  Rotation 90
+    D114   Rectangle 0.200 X 1.375
+    D115   Rectangle 1.000 X 1.300  Rotation 90
+    D116   Rectangle 0.920 X 1.370
+    D117   Rectangle 1.297 X 1.424  Rotation 90
+    D118   Rectangle 1.200 X 1.700  Rotation 90
+    D119   Rectangle 0.550 X 0.600  Rotation 90
+    D120   Round 1.400
+
+Gerber Output
+=============
+
+C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\Plots\Gnd Plane (Power Plane).G9
+
+    Layers:
+    -----------------------------------------------------------------------------------
+    Gnd Plane  - Plane Isolation Gap 0.200 Thermal Connect Width 0.254 with 4 Spokes
+
+    D-Code Shape  (mm)
+    ---------------------------------------------------------------
+    D71    Round 0.254
+    D20    Round 0.000
+    D22    Round 1.422
+    D24    Round 0.813
+    D25    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 90
+    D26    Rounded Rectangle 0.450 X 0.650 X 0.150
+    D27    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 135
+    D28    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 45
+    D29    Rounded Rectangle 1.900 X 4.600 X 0.050
+    D72    Rounded Rectangle 1.900 X 4.600 X 0.050  Rotation 90
+    D77    Square 1.524
+    D85    Round 1.600
+    D86    Round 1.700
+    D96    Round 1.500
+
+Gerber Output
+=============
+
+C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\Plots\Vcc Plane (Power Plane).G10
+
+    Layers:
+    -----------------------------------------------------------------------------------
+    Vcc Plane  - Plane Isolation Gap 0.200 Thermal Connect Width 0.254 with 4 Spokes
+
+    D-Code Shape  (mm)
+    ---------------------------------------------------------------
+    D71    Round 0.254
+    D20    Round 0.000
+    D22    Round 1.422
+    D24    Round 0.813
+    D25    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 90
+    D26    Rounded Rectangle 0.450 X 0.650 X 0.150
+    D27    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 135
+    D28    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 45
+    D29    Rounded Rectangle 1.900 X 4.600 X 0.050
+    D72    Rounded Rectangle 1.900 X 4.600 X 0.050  Rotation 90
+    D77    Square 1.524
+    D85    Round 1.600
+    D86    Round 1.700
+    D96    Round 1.500
+
+Gerber Output
+=============
+
+C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\Plots\Bottom Copper.GBL
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (mm)
+    ---------------------------------------------------------------
+    D19    Round 0.203
+    D71    Round 0.254
+    D20    Round 0.000
+    D21    Round 0.381
+    D22    Round 1.422
+    D24    Round 0.813
+    D25    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 90
+    D26    Rounded Rectangle 0.450 X 0.650 X 0.150
+    D27    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 135
+    D28    Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 45
+    D29    Rounded Rectangle 1.900 X 4.600 X 0.050
+    D72    Rounded Rectangle 1.900 X 4.600 X 0.050  Rotation 90
+    D77    Square 1.524
+    D85    Round 1.600
+    D86    Round 1.700
+    D96    Round 1.500
+
+Gerber Output
+=============
+
+C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\Plots\Bottom Silkscreen.GBO
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (mm)
+    ---------------------
+    D11    Round 0.127
+    D20    Round 0.000
+    D121   Round 0.142
+    D122   Round 0.102
+
+Gerber Output
+=============
+
+C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\Plots\Bottom Resist.GBS
+
+    Layers:
+    -----------------
+    Bottom Resist
+
+    D-Code Shape  (mm)
+    --------------------------------------------------------------
+    D123   Round 1.067
+    D124   Rounded Rectangle 0.450 X 0.650 X 0.150  Rotation 90
+    D125   Rounded Rectangle 0.450 X 0.650 X 0.150
+    D126   Rounded Rectangle 1.900 X 4.600 X 0.050
+    D127   Rounded Rectangle 1.900 X 4.600 X 0.050  Rotation 90
+    D128   Square 1.778
+    D129   Round
