@@ -1,13 +1,13 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     20:43 Sunday, January 12, 2025
-Project Path:       C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\UnoMZ.prj
-Design Path:        C:\Users\Public\Documents\DesignSpark PCB 12.0\Examples\ArdunioMZ\UnoMZ.pcb
+Report Written:     06:54 Thursday, August 07, 2025
+Project Path:       C:\Users\Git\32MZ_Uno\UnoMZ.prj
+Design Path:        C:\Users\Git\32MZ_Uno\UnoMZ.pcb
 Design Title:       
-Created:            1/6/2025 7:44:07 PM
-Last Saved:         1/12/2025 8:25:26 PM
-Editing Time:       2721 min
+Created:            1/6/2025 8:44:07 PM
+Last Saved:         8/7/2025 6:53:58 AM
+Editing Time:       3419 min
 Units:              mm (precision 3)
 
 
