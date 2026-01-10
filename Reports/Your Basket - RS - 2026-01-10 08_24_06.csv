@@ -1,0 +1,9 @@
+﻿RS Stock No,Quantity,Label,Pack Size,Cost Centre,Description,Manufacturer Part. No.,Manufacturer name,Unit Price,Total Price
+1808386P,4,Each (Supplied on a Reel),1,UnoMZ,"Molex Right Angle, SMT, Socket- Single Port Type Micro B 2.0 IP67 USB Connector",204926-1103,Molex,2.24,8.96
+448376,10,Each (In a Pack of 10),10,UnoMZ,"RS PRO DC Socket Rated At 1.0A, 12.0 V, PCB Mount, length 14.5mm, Nickel",,RS PRO,0.322,3.22
+6478156P,10,Each (Supplied on a Reel),10,UnoMZ,"Bourns 0.5A Resettable Fuse, 15V",MF-MSMF050-2,Bourns,0.209,2.09
+6247693,20,Each (In a Pack of 10),10,UnoMZ,"STMicroelectronics USBLC6-2SC6, Dual-Element Uni-Directional TVS Diode Array, 6-Pin SOT-23",USBLC6-2SC6,STMicroelectronics,0.178,3.56
+8765702,50,Each (In a Pack of 50),50,,"STMicroelectronics STripFET Type P-Channel MOSFET, 2 A, 30 V Enhancement, 3-Pin SOT-23 STR2P3LLH6",STR2P3LLH6,STMicroelectronics,0.267,13.35
+2403486P,10,Each (Supplied on a Reel),10,,Abracon 24MHz Crystal ±50ppm Ceramic Package 4-Pin 3.2 x 2.5 x 0.8mm,ABM8AIG-24.000MHZ-12-2Z-T3,Abracon,0.94,9.4
+7240444,5,Each (In a Pack of 5),5,,"Microchip, Operational Amplifier, 1 MHz, 8-Pin 6 V MSOP",MCP6002-E/MS,Microchip,0.322,1.61
+649462,5,Each (On a Tape of 5),5,,"Microchip MIC2954-03WS-TR, 1-Channel Low Dropout Voltage, Voltage Regulator, 500 mA, 5 V, SOT-223 3-Pin",MIC2954-03WS-TR,Microchip,1.08,5.4

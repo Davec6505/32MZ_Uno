@@ -1,0 +1,37 @@
+Report Written:,"22:44 Thursday, January 08, 2026",,,,,,,,
+Project Path:,C:\Users\davec\GIT\32MZ_Uno\UnoMZ.prj,,,,,,,,
+Design Path:,C:\Users\davec\GIT\32MZ_Uno\UnoMZ.pcb,,,,,,,,
+Design Title:,,,,,,,,,
+Created:,1/6/2025 19:44,,,,,,,,
+Last Saved:,12/29/2025 8:30,,,,,,,,
+Editing Time:,5201 min,,,,,,,,
+Units:,mm (precision 3),,,,,,,,
+,,,,,,,,,
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb,,,,,,,,,
+--------------------------------------------------------------------------,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,RS Part Number,Other Part Number,Description
+"C2,4,5,8,9,10,11,13,14",9,08055C104KATDA,,C0805,AVX,,,,"Capacitor, Surface Mount, Multi-Layer Ceramic"
+microUSB,1,204926-1103,,2049261103,Molex,204926-1103,1808386P,,"Micro-USB B Receptacle without Flange, Surface Mount, Waterproof, Lead-Free"
+FB1,1,BLM18HE102SH1D,,BLM18SP221SN1B,Murata Electronics,BLM18HE102SH1D,2234897,,BLM18_H1D Series EMI Suppression Filter 1000+/-25% at 100MHz 600mA @85
+"C6,7",2,C0805C180C5GACTU,,CAPC2012X88N,KEMET,C0805C180C5GACTU,,,Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 18pF C0G 0805 0.25pF
+100nf,1,Capacitor,,0805,,,,,Capacitor
+J1,1,DC_Barrel_Jack,,448376,RS Pro,448-376,448-376,,"DC Socket Rated At 1.0A, 12.0 V, PCB Mount, length 14.5mm, Nickel"
+"C1,3",2,EEE-1CA470AP,,EEE1AA101SP,Panasonic,EEE-1CA470AP,8077900,,"Panasonic 47uF 16 V Aluminium Electrolytic Capacitor D, S(V) Series 2000h 6.3 x 5.4mm"
+Q1,1,FDN340P,,SOT95P237X112-3N,onsemi,FDN340P,6710435P,,Trans MOSFET P-CH 20V 2A 3-Pin SuperSOT
+"5,12,LED3,4,5,6 V",6,LG_R971,,LEDC2012X90N,ams OSRAM,LG R971,6545773P,,Green 0805 CHIPLED LG R971 Osram Opto CHIPLED 0805 Series Green LED 160 ?? 0805
+IC2,1,LMV358IDGKR,,SOP65P490X110-8N,Texas Instruments,LMV358IDGKR,6606727P,,"OP Amp Dual GP R-R O/P 5.5V 8-Pin MSOP Texas Instruments LMV358IDGKR, Dual Op Amp, 1MHz CMOS, Rail to Rail, 3 V, 5 V, 8-Pin MSOP"
+IC1,1,LP2985AIM5-3.8_NOPB,,SOT95P280X145-5N,Texas Instruments,LP2985AIM5-3.8/NOPB,8258244P,,"Texas Instruments LP2985AIM5-3.8/NOPB, Low Noise LDO Voltage Regulator, 350mA, 3.8 V 1%, 2.2  16 Vin, 5-Pin"
+F1,1,MF-MSMF050-2,,FUSC4632X85N,Bourns,MF-MSMF050-2,6478156P,,"Fuse, PTC, Resettable, SMD, 1812, 500mA Bourns 0.5A Surface Mount Resettable Fuse, 15 V"
+IC4,1,PIC32MZ2048EFH064-250I_PT,,QFP50P1200X1200X120-64N,Microchip,PIC32MZ2048EFH064-250I/PT,1468855P,,Secure MCU 32bit PIC32 PIC RISC 2MB Flash 3.3V Automotive 64-Pin TQFP Tray
+"R1,4,8,10.11.12.13",7,R 0.1W SMTF 1.0K,,SM0805,,,,,Thick Film Surface Mount Resistor
+R7,1,R 0.1W SMTF 1M,,SM0805,,,,,Thick Film Surface Mount Resistor
+"R2,3,9",3,R 0.1W SMTF 10K,,SM0805,,,,,Thick Film Surface Mount Resistor
+"R5,6",2,R 0.1W SMTF 22,,SM0805,,,,,Thick Film Surface Mount Resistor
+Y1,1,RH100-24.000-20-3050-EXT-TR,,RH10024000203050EXTTR,RALTRON,RH100-24.000-20-3050-EXT-TR,,,"MHz Crystal, 24 MHz, 3.2 x 2.5 mm, +/-30 ppm tolerance, +/-50 ppm stability, 20 pF, -40~85C, SMD"
+BR1,1,RR264MM-400TR,,RR264MM400TR,ROHM Semiconductor,RR264MM-400TR,1246806P,,Rectifying Diode
+C12,1,TCJA106M010R0300,,CAPPM3216X180N,Kyocera AVX,TCJA106M010R0300,5483719P,,"Capacitor,Tantalum,SMT,Low ESR,Case A, 10V, 10uF"
+S1,1,TL1105CF160Q,,TL1105CF160Q,E-Switch,TL1105CF160Q,,,Tactile Switches 6X6X8MM 160GF
+3v,1,TLE42744GSV33HTMA1,,SOT230P700X180-4N,Infineon,TLE42744GSV33HTMA1,2605882,,"INFINEON - TLE42744GSV33HTMA1 - LDO, FIXED, AEC-Q100, 3.3V, 0.4A, SOT223"
+IC5,1,USBLC6-2SC6,,SOT95P280X145-6N,STMicroelectronics,USBLC6-2SC6,,,"TVS Diode Array Uni-Directional USBLC6-2SC6 17V, SOT-23 6-Pin"

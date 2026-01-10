@@ -1,13 +1,13 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     06:54 Thursday, August 07, 2025
-Project Path:       C:\Users\Git\32MZ_Uno\UnoMZ.prj
-Design Path:        C:\Users\Git\32MZ_Uno\UnoMZ.pcb
+Report Written:     07:30 Wednesday, December 24, 2025
+Project Path:       C:\Users\davec\GIT\32MZ_Uno\UnoMZ.prj
+Design Path:        C:\Users\davec\GIT\32MZ_Uno\UnoMZ.pcb
 Design Title:       
-Created:            1/6/2025 8:44:07 PM
-Last Saved:         8/7/2025 6:53:58 AM
-Editing Time:       3419 min
+Created:            1/6/2025 7:44:07 PM
+Last Saved:         12/24/2025 7:17:08 AM
+Editing Time:       5023 min
 Units:              mm (precision 3)
 
 
