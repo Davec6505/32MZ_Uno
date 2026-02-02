@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     22:21 Saturday, January 31, 2026
+Project Path:       C:\Users\davec\GIT\32MZ_Uno\UnoMZ.prj
+Design Path:        C:\Users\davec\GIT\32MZ_Uno\UnoMZ.pcb
+Design Title:       
+Created:            1/6/2025 7:44:07 PM
+Last Saved:         1/31/2026 10:08:11 PM
+Editing Time:       5537 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic and Pcb designs in project "UnoMZ"
+==================================================================
+
+
+End Of Report.
