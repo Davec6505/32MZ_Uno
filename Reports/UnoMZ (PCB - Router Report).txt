@@ -1,0 +1,16 @@
+Router Report
+-------------
+
+Report Written:     17:36 Saturday, May 09, 2026
+Project Path:       C:\Users\davec\GIT\32MZ_Uno\UnoMZ.prj
+Design Path:        C:\Users\davec\GIT\32MZ_Uno\UnoMZ.pcb
+Design Title:       
+Created:            1/6/2025 8:44:07 PM
+Last Saved:         5/9/2026 5:36:17 PM
+Editing Time:       9219 min
+Units:              mm (precision 3)
+
+Track Length 2280.065 mm 111 vias
+1 Unrouted Connections 8.711 mm
+
+End Of Report.
